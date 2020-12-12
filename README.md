@@ -1,5 +1,5 @@
 # NewsPrimeCRVReader
 
 ## Compile
->From NewsPrimeCRVReader folder,
+>From NewsPrimeCRVReader folder  
 >sbt compile
